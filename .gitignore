@@ -1,0 +1,24 @@
+# Videos y audio pesados — no van al repo
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.aif
+
+# Archivos de edición
+*.prproj
+*.aep
+*.psd
+
+# Claves y credenciales — nunca van al repo
+.env
+*.env
+*secret*
+*credentials*
+*.pem
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
